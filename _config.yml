@@ -1,0 +1,7 @@
+title: "D&D4e Resources"
+titles_from_headings:
+    enabled: false
+defaults:
+    -
+        values:
+            layout: default
